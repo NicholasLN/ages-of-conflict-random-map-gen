@@ -324,4 +324,5 @@ function generateMap(
   return map;
 }
 
-module.exports = generateMap;
+// default export
+export default generateMap;
