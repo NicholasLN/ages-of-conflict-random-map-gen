@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ages-of-conflict-random-map-gen/static/css/main.e6c13ad2.css",
+    "main.js": "/ages-of-conflict-random-map-gen/static/js/main.9a79bf9e.js",
+    "static/js/787.e9f093bc.chunk.js": "/ages-of-conflict-random-map-gen/static/js/787.e9f093bc.chunk.js",
+    "index.html": "/ages-of-conflict-random-map-gen/index.html",
+    "main.e6c13ad2.css.map": "/ages-of-conflict-random-map-gen/static/css/main.e6c13ad2.css.map",
+    "main.9a79bf9e.js.map": "/ages-of-conflict-random-map-gen/static/js/main.9a79bf9e.js.map",
+    "787.e9f093bc.chunk.js.map": "/ages-of-conflict-random-map-gen/static/js/787.e9f093bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9a79bf9e.js"
+  ]
+}
